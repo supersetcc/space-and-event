@@ -1,4 +1,4 @@
-# Understanding Space and Event - From the Business Perspective
+# Understanding Space, Event, and Business Strategy
 
 ## Table of Contents
 - Overview
@@ -6,7 +6,7 @@
   - Touchpoint and Converrsion (Event Classification From the Business Perspective)
 - Structure
 - Implementation
-- Vision
+- What's Next?
 
 ## Overview
 
@@ -61,9 +61,17 @@
 - Out: In부터 Out까지 걸린 시간 (어느 정도 관심있는지 유추할 수 있음)
 - Do: 구체적인 관심사에 대해 알 수 있음
 
-이벤트를 유심히 살펴봤다면 조금은 껄끄러운 분류를 발견했을지도 모릅니다. `공기청정기 마케팅 노출 (Do)`와 `프라푸치노 추천메뉴 노출 (Do)`는 무엇을 했다고 표현하는 것보다 당했다고 표현하는 것이 더 합리적으로 보입니다. 우리는 이 Do라는 행동을 Touchpoint와 Conversion란 개념으로 나눌 수 있습니다.
+이벤트를 유심히 살펴봤다면 조금은 이상한 분류를 발견했을지도 모릅니다. `공기청정기 마케팅 노출 (Do)`와 `프라푸치노 추천메뉴 노출 (Do)`는 무엇을 했다고 표현하는 것보다 당했다고 표현하는 것이 더 합리적으로 보입니다. 우리는 이 Do라는 행동을 Touchpoint와 Conversion란 개념으로 나눌 수 있습니다.
 
-### Touchpoint and Converrsion (Event Classification From the Business Perspective)
+### Touchpoint and Conversion (Event Classification From the Business Perspective)
 
 - Touchpoint (push)
 - Conversion (pull)
+
+## Structure
+[Here](http://product.ideapark.cc)
+
+## Implementation
+1. [tracking link](./implementation/1_tracking_link.md)
+
+## What's Next?
